@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>Welcome to www.sacks.com!</title>
+	</head>
+	<body>
+		<h1><img src="MonopolyMan1.png" width="120" height="120">Welcome to Goldman-Sacks <img src="MonopolyMan1.png" width="120" height="120"></h1>
+		<h3>Board of Directors</h3>
+		<ul>
+			<li>Griffin Pundt</li>
+			<li>Eric Ford</li>
+			<li>Lucas Frink</li>
+			<li>Craig Woolley</li>
+			<li>Nick Blanock</li>
+		</ul>
+
+		<h3>Mission Statement</h3>
+		<p>At Goldman-Sacks, we understand that success often requires a willingness to operate in the gray areas of legality. With our expertise and network of connections, we ensure that our clients emerge victorious in a game where the rules are constantly shifting.
+Join us on this magical journey, where the rewards are great and the risks are... well, best left unspoken.  Remember, it's only a crime if you get caught!</p>
+
+
+	</body>
+</html>
